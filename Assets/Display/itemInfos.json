@@ -1,0 +1,9 @@
+{
+    "Potion": "\nPotion 🧪\nRegenerates 50% of health points \n",
+
+    "Ether": "\nEther 💊\nRegenerates 30% of Mana \n",
+
+    "PieceOfStar": "\nPiece of Star ✨\nPV : 275\nResurrects a character with 20% of their HP (or heals 50% of his HP if he is not knocked out)\n",
+
+    "HalfStar": "\nHalf Star ⭐\nResurrects a character with all of his HP (or heals him if he is not knocked out)\n"
+}

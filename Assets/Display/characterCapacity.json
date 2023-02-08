@@ -1,0 +1,13 @@
+{
+    "Mage": "\nMage 🧙\nPV : 220\nMana : 100 use 20 for is special attack\nSpeed : 6\nBasic Attack : 100\nDefence : 30\nSpecial Attack : ignores the opponent's defenses\n",
+
+    "Priest": "\nPriest 🙏\nPV : 200\nMana : 100 use 40 for is special attack\nSpeed : 8\nBasic Attack : 110\nDefence : 25\nSpecial Attack : regains 50% of the hp of the target hero\n",
+
+    "Warrior": "\nWarrior ⚔️\nPV : 275\nSpeed : 7\nBasic Attack : 175\nDefence : 75\nSpecial Attack : none\n",
+
+    "Paladin": "\nPaladin 🛡️\nPV : 300\nSpeed : 4\nBasic Attack : 150\nDefence : 80\nSpecial Attack : hits every monster, up to 40% of its basic attack - the opponent's defence\n",
+
+    "Barbaric": "\nBarbaric 🗡️\nPV : 250\nSpeed : 9\nBasic Attack : 200\nDefence : 15\nSpecial Attack : 130% of its basic attack\n",
+
+    "Thief": "\nThief 💰\nPV : 250\nSpeed : 12 (fisrt)\nBasic Attack : 160\nDefence : 50\nSpecial Attack : steal a random item\n"
+}
